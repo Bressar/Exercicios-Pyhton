@@ -5,7 +5,7 @@ media = (n1 + n2 + n3) / 3
 print(f'"A nota média é {media}"')
 
 
-print('\n')  
+linha()
 """ 2) Continuar o exercício anterior. Cada nota tem o valor percentual seguinte:
 1ª nota: vale 15% do total
 2ª nota: vale 35% do total
@@ -19,7 +19,7 @@ media_notas = (nota_1 * 0.15) + (nota_2 * 0.35) + (nota_3 * 0.5)
 print(f"Média Final: {media_notas:.2f}")
 
 
-print('\n')  
+linha()
 """ 3) Ler 2 números inteiros por teclado e avaliar de forma booleana (True ou False) os seguintes aspetos:
 Se os dois números são iguais
 Se os dois números são diferentes
@@ -42,7 +42,7 @@ if (num2 >= num1):
     print(f"O 2° número: {num2} é maior ou igual do que o 1° número: {num1}")
 
   
-print('\n')    
+linha()  
 """ 4) Ler uma cadeia de texto introduzida pelo teclado e avaliar se tem um comprimento maior ou igual a três e menor que dez (mostrar unicamente True ou False) Pista: utilizar operadores lógicos """
 
 frase = str(input("Escreva uma frase para saber se o seu\n"
@@ -55,7 +55,7 @@ else:
     print(False)
     
 
-print('\n')  
+linha() 
 """ 5) Transcrever o seguinte algoritmo (utilizar operadores de atribuição sempre que possa):
 Guardar numa variável o número_mágico o valor 12345679 (sem o 8)
 Ler por ecrã outro número_utilizador, especificar que seja entre 1 e 9 (assegurar que seja inteiro)
