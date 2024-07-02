@@ -1,3 +1,7 @@
+def linha():
+    print('--' * 20)
+    print('\n')
+    
 """ 1) Armazenar 3 variáveis com 3 notas numéricas e fazer a média aritmética. Mostrar o resultado final com uma mensagem como esta: “A nota média é 6,0” """
 
 n1, n2, n3 = 3, 5, 10
