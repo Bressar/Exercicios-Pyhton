@@ -1,5 +1,5 @@
-# Exercicios-Tokio-School-Pyhton
- Exercícios (resolvidos) do curso de Python da Tokio School
+# Exercícios Pyhton - do básico até o avançado - sempre em atualização
+Exercícios (resolvidos)
 
 Exercício 1: Operadores
 
