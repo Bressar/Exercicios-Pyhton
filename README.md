@@ -9,7 +9,7 @@ Exercício 3: Tipos avançados
 
 Exercício 4: Controlo de fluxo
 
-Exercício 5: 
+Exercício 5: Funções
 
 Exercício 6: 
 
