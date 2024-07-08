@@ -1,5 +1,5 @@
 # Exercícios Pyhton - do básico até o avançado - sempre em atualização
-##Exercícios (resolvidos)
+## **Exercícios _(resolvidos)_**
 
 - [x] Exercício 1: Operadores
 
