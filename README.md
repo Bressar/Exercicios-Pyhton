@@ -1,4 +1,4 @@
-## Exercícios Pyhton - do básico até o avançado - *sempre em atualização*
+## Exercícios Pyhton - do básico até o avançado - *atualizado toda semana*
 
 ### **Exercícios _(resolvidos)_**
 
