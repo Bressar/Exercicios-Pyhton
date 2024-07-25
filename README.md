@@ -12,7 +12,7 @@
 
 - [x] Exercício 5: Funções
 
-- [ ] Exercício 6: POO - Classes e Objetos
+- [x] Exercício 6: POO - Classes e Objetos
 
 - [ ] Exercício 7: POO
 
